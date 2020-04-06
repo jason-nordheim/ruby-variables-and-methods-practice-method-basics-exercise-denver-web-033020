@@ -3,14 +3,14 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  val = value 
+  val = value
 end
 
 def argue arg
   arg
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
